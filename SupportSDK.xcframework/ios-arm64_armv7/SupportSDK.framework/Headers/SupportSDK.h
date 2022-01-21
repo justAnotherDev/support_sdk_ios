@@ -31,7 +31,6 @@
 #import <SupportSDK/ZDKSpinnerDelegate.h>
 #import <SupportSDK/ZDKSupportAttachmentCell.h>
 #import <SupportSDK/ZDKToastViewWrapper.h>
-#import <SupportSDK/ZDKUIUtil.h>
 
 #if MODULES_DISABLED
 #import <SupportProvidersSDK/SupportProvidersSDK.h>
